@@ -1,0 +1,30 @@
+.staffs-list .input-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.staffs-list {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.staffs-list .input-group .glyphicon {
+    top: 0;
+}
+
+.searchStaffPlugin {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border: solid #f7f7f9 .2rem;
+}
+
+.searchStaffPlugin:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+.contact-on {
+    cursor: pointer;
+    color: #31b8da;
+}
